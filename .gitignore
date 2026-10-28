@@ -1,0 +1,20 @@
+# Obsidian: 창/탭 상태는 상시 변경 → 충돌 유발
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# Smart Connections 임베딩 (로컬 재생성)
+.smart-env/
+.smart-connections/
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+*.swp
+
+# 비밀정보는 절대 커밋하지 않음
+.env
+*.pem
+*.key
