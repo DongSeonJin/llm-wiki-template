@@ -18,3 +18,9 @@ Thumbs.db
 .env
 *.pem
 *.key
+
+# Plugin data with OAuth tokens/API keys (per-user)
+.obsidian/plugins/smart-composer/data.json
+# Bundled plugin code with vendor OAuth client values (install via Obsidian)
+.obsidian/plugins/remotely-save/main.js
+.obsidian/plugins/smart-composer/main.js
